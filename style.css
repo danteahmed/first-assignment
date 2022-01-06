@@ -1,0 +1,76 @@
+body {
+   font-family: 'Ubuntu', sans-serif;
+}
+h1 {
+   font-size: 50px;
+}
+h2{
+   font-size: 40px;
+}
+span{
+   color: crimson;
+}
+#web-mission{
+  border-image: linear-gradient(coral, lightsalmon);
+  border-image-slice: 1;
+  border-left: 8px solid;
+  border-radius: 10px;
+
+}
+.mission-item{
+  padding-left: 20px;
+  border-radius: 5px;
+}
+.half-width{
+  width: 50%;
+  padding-left: 6%;
+}
+.flexible-container{
+  display: flex;
+  margin-bottom: 150px;
+}
+.half-width img{
+      width: 60%;
+      position: relative;
+      top: -190px;
+      left: 20px;
+   }
+   .half-width h5{
+      position: relative;
+      top: 10px;
+   }
+.hire-button{
+   text-decoration: none;
+   padding: 10px 30px;
+   border-radius: 6px;
+   background-image: linear-gradient(#2d388a, deepskyblue);
+   color: white;
+   font-weight: 800;
+   position: relative;
+   top: 10px;
+}
+#span-mis{
+   color: darkblue;
+}
+.mis-item{
+  box-shadow: 10px 10px 40px grey;
+  width: 30%;
+  margin-left: 4%;
+  margin-right: 4%;
+  padding-left: 30px;
+  border-radius: 10px;
+  position: relative;
+  top: -200px;
+}
+.mis-item img{
+   width: 50%;
+}
+#my-mis{
+   text-align: center;
+   position: relative;
+   top: -200px;
+}
+.mis-item p{
+   text-align: justify;
+   padding-right: 30px;
+}
