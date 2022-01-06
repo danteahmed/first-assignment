@@ -5,7 +5,7 @@ h1 {
    font-size: 50px;
 }
 h2{
-   font-size: 40px;
+   font-size: 30px;
 }
 span{
    color: crimson;
@@ -39,7 +39,7 @@ span{
       position: relative;
       top: 10px;
    }
-.hire-button{
+.explore-btn{
    text-decoration: none;
    padding: 10px 30px;
    border-radius: 6px;
@@ -73,4 +73,42 @@ span{
 .mis-item p{
    text-align: justify;
    padding-right: 30px;
+}
+#dev-limit{
+   position: relative;
+   top: -190px;
+   left: -150px;
+   text-align: justify;
+
+}
+#dev-img{
+   position: relative;
+   right: -70px;
+}
+#global-com {
+   position: relative;
+   top: -190px;
+   left: 70px;
+   text-align: justify;
+}
+#global-img{
+   position: relative;
+   right: -70px;
+}
+#contact-me{
+   position: relative;
+   top: -190px;
+   left: 70px;
+   text-align: justify;
+}
+#contact-img{
+   position: relative;
+   right: -120px;
+}
+footer {
+  text-align: center;
+  background-color: grey;
+  padding: 10px 20px;
+  color: white;
+  width: 100%;
 }
