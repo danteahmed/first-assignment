@@ -85,6 +85,12 @@ span{
    position: relative;
    right: -70px;
 }
+.coding{
+   background-image: url(images/shapes/shape-1.png);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-size: 250px;
+}
 #global-com {
    position: relative;
    top: -190px;
@@ -107,8 +113,17 @@ span{
 }
 footer {
   text-align: center;
-  background-color: grey;
+  background-color: black;
   padding: 10px 20px;
   color: white;
   width: 100%;
+}
+#mis{
+   background-color: hotpink;
+}
+#vis{
+   background-color: khaki;
+}
+#goal{
+   background-color: sandybrown;
 }
