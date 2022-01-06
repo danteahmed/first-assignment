@@ -101,6 +101,12 @@ span{
    position: relative;
    right: -70px;
 }
+.community{
+   background-image: url(images/shapes/shape-6.png);
+   background-repeat: no-repeat;
+   background-position: right top;
+   background-size: 250px;
+}
 #contact-me{
    position: relative;
    top: -190px;
